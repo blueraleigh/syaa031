@@ -1,2 +1,3 @@
 # syaa031
-Supplementary materials for https://doi.org/10.1093/sysbio/syaa031
+
+This repo contains a zip archive with data files and analysis scripts for the manuscript linked to in the description.
